@@ -10,6 +10,7 @@ DEPI final garduation project main repository.
 | Abdelrhman Osama | Team Lead and Project Manager |
 | Abdelrhman Raoof | Team Member |
 | Omar Mohamed | Team Member |
+| Sagda Mohamed | Team Member |
 
 ## Planned Features
 
